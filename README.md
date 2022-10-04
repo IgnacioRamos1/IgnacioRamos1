@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ramos-ignacio)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ramos-ignacio)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ramos-ignacio#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ramos-ignacio#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
