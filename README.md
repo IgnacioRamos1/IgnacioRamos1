@@ -8,9 +8,9 @@
 
 ### Connect with me:
 
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ramos-ignacio)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ramos-ignacio)
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/nachoram0s/)
 
 ### Languages and Tools:
 
