@@ -25,12 +25,8 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.linkedin.com/in/ramos-ignacio#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.linkedin.com/in/ramos-ignacio#gh-dark-mode-only)
 
-
 <br />
 <br />
-
----
-
 
 ## :zap: GitHub Stats
 
