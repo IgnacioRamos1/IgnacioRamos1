@@ -1,10 +1,9 @@
 # Hi there, I'm Ignacio 👋 
 
-## I'm a Python Backend Developer
+## I'm a Backend Developer
 
 - 🌱 I’m always learning new things
 - 👀 Looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
